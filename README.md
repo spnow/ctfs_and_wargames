@@ -5,10 +5,5 @@ CTFs
 - CSAW CTF Qualification 2014
 
 Wargames
-- overthewire.org
-	natas
-	semtex
-	vortex
-- root-me.org
-	cracking
-	programming
+- overthewire.org [natas, semtex, vortex]
+- root-me.org [cracking, programming]
